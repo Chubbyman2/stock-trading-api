@@ -20,3 +20,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    # For help: https://fly.io/blog/deploying-django-to-production/
